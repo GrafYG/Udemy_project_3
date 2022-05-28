@@ -1,0 +1,35 @@
+{
+  "name": "project_food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrafYG/Udemy_project_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%"
+  ],
+  "bugs": {
+    "url": "https://github.com/GrafYG/Udemy_project_3/issues"
+  },
+  "homepage": "https://github.com/GrafYG/Udemy_project_3#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "babel-loader": "^8.2.5",
+    "core-js": "^3.22.7",
+    "json-server": "^0.17.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "es6-promise-polyfill": "^1.2.0",
+    "nodelist-foreach-polyfill": "^1.2.0"
+  }
+}
